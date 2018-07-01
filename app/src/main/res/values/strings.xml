@@ -1,4 +1,132 @@
 <resources>
     <string name="app_name">Quiz App</string>
-    <string name="sub_header">Quiz App</string>
+
+    <!--Header Name-->
+
+    <string name="RENEWABLE_ENERGY_QUIZ">RENEWABLE ENERGY QUIZ</string>
+
+    <!--Name Input Space-->
+    <string name="Please_enter_your_name">Enter Your Name</string>
+
+
+    <!--Question 1-->
+    <string name="num_question_1">Question 1</string>
+    <string name="question_1"> Which of these energy sources are not renewable? </string>
+
+    <!--Answers to the question 1-->
+    <string name="Coal">Coal</string>
+    <string name="Hydro_Power">Hydro Power</string>
+    <string name="Uranium">Uranium</string>
+    <string name="Solar_Radiation">Solar Radiation</string>
+    <string name="Geothermal">Geothermal</string>
+
+    <!--Question 2-->
+    <string name="num_question_2">Question 2</string>
+    <string name="question_2">Which country in Africa uses more renewable energy in their Power system ?</string>
+
+    <!--Answers to the question 2-->
+    <string name="answer_2_1">South Africa</string>
+    <string name="answer_2_2">Ghana</string>
+    <string name="answer_2_3">Nigeria</string>
+    <string name="answer_2_4">Gambia</string>
+
+    <!--Question 3-->
+    <string name="num_question_3">Question 3</string>
+    <string name="question_3">The following are fossil fuels except </string>
+
+    <!--Answers to the question 3-->
+    <string name="Oil">Oil</string>
+    <string name="Wood">Wood</string>
+    <string name="Natural_Gas">Natural Gas</string>
+    <string name="Petrol">Petrol</string>
+    <string name="Diesel">Diesel</string>
+
+    <!--Question 4-->
+    <string name="question_4">What are the three effects of climate change?</string>
+    <string name="num_question_4">Question 4</string>
+
+    <!--Answers to the question 4-->
+    <string name="answer_4_1">Drought and water shortages</string>
+    <string name="answer_4_2">Floods and other extreme weather conditions</string>
+    <string name="answer_4_3">Pollution free environment</string>
+    <string name="answer_4_4">Rising sea levels</string>
+    <string name="answer_4_5">Clean society</string>
+
+    <!--Question 5-->
+    <string name="num_question_5">Question 5</string>
+    <string name="question_5">Which of the following are part of solar inverter system? (Choose 3 best answers)</string>
+
+    <!--Answers to the question 5-->
+    <string name="answer_5_1">Battery</string>
+    <string name="answer_5_2">Charge Controller</string>
+    <string name="answer_5_3">Cable</string>
+    <string name="answer_5_4">Soldering Iron</string>
+    <string name="answer_5_5">Photovotaic Cell</string>
+
+    <!--Question 6-->
+    <string name="num_question_6">Question 6</string>
+    <string name="question_6">Which household appliance, on average, emits the most CO2emissions per hour of use?</string>
+
+    <!--Answers to the question 6-->
+    <string name="answer_6_1">An electric hot water boiler</string>
+    <string name="answer_6_2">An air-conditioner</string>
+    <string name="answer_6_3">Solar Inverters</string>
+    <string name="answer_6_4">A dishwasher</string>
+    <string name="answer_6_5">Solar Dryer</string>
+
+    <!--Question 7-->
+    <string name="num_question_7">Question 7</string>
+    <string name="Question_7">Ways in which we can reduce our carbon footprint include the following except </string>
+
+    <!--Answers to the question 7-->
+    <string name="answer_7_1">Putting on another jumper rather than turning the heating up</string>
+    <string name="answer_7_2">Adopting wooding stove to cook always</string>
+    <string name="answer_7_3">Turning the lights off when leaving an empty room</string>
+    <string name="answer_7_4">Walking/cycling or car sharing when travelling to school</string>
+
+    <!--Question 8-->
+    <string name="num_question_8">Question 8</string>
+    <string name="question_8">Which three of the following are the Green Houses gases</string>
+
+    <!--Answers to the question 8-->
+    <string name="answer_8_1">Methane</string>
+    <string name="answer_8_2">Nitrous Oxide</string>
+    <string name="answer_8_3">Oxygen</string>
+    <string name="answer_8_4">Carbon monoxide</string>
+    <string name="answer_8_5">Fluorinated gases</string>
+    <string name="answer_8_6">Nitrogen</string>
+
+    <!--Question 9-->
+    <string name="num_question_9">Question 9</string>
+    <string name="question_9">Which of the following gases are more harmful to humans(Choose 3 best answers)</string>
+
+    <!--Answers to the question 9-->
+    <string name="answer_9_1">Nitrogen dioxide</string>
+    <string name="answer_9_2">Carbon dioxide</string>
+    <string name="answer_9_3">Oxygen</string>
+    <string name="answer_9_4">Carbon monoxide</string>
+    <string name="answer_9_5">Sulfur tetrafluoride</string>
+    <string name="answer_9_6">Nitrogen</string>
+
+    <!--Question 10-->
+    <string name="num_question_10">Question 10</string>
+    <string name="question_10">Which of the following gases are more beneficial to humans</string>
+
+    <!--Answers to the question 10 -->
+
+    <!--Answers to the question 10-->
+    <string name="answer_10_1">Carbon monoxide</string>
+    <string name="answer_10_2">Nitrogen</string>
+    <string name="answer_10_3">Oxygen</string>
+    <string name="answer_10_4">Carbon dioxide</string>
+    <string name="answer_10_5">Nitrogen dioxide</string>
+    <string name="answer_10_6">Helium</string>
+
+    <!--Button "End Test"-->
+    <string name="end_test">End test</string>
+
+    <!--Test Result-->
+    <string name="test_result_name">"Name: "</string>
+    <string name="test_result">Test Result</string>
+    <string name="test_result_score">"Score: "</string>
 </resources>
